@@ -178,6 +178,16 @@ template {
 [hidden] {
   display: none
 }
+
+body {
+  cursor: url(https://postimg.cc/XrPf749k),
+      default;
+  }
+  a,
+  img {
+      cursor: url(https://postimg.cc/D4mfZkr1),
+          default;
+}
 .limit-one-line,
 .flink#article-container .flink-list > .flink-list-item a .flink-item-name,
 .flink#article-container .flink-list > .flink-list-item a .flink-item-desc,
@@ -1333,6 +1343,7 @@ input::placeholder {
 }
 #web_bg {
   position: fixed;
+  bottom: 70px;
   z-index: -999;
   width: 100%;
   height: 100%;
