@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>稳定静态工作点的放大电路</title>
+      <link href="post/%E6%A8%A1%E7%94%B5/"/>
+      <url>post/%E6%A8%A1%E7%94%B5/</url>
+      
+        <content type="html"><![CDATA[<h2 id="稳定静态工作点的放大电路"><a href="#稳定静态工作点的放大电路" class="headerlink" title="稳定静态工作点的放大电路"></a>稳定静态工作点的放大电路</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 模电 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>马原考试复习</title>
       <link href="post/%E9%A9%AC%E5%8E%9F%E5%A4%8D%E4%B9%A0/"/>
       <url>post/%E9%A9%AC%E5%8E%9F%E5%A4%8D%E4%B9%A0/</url>
@@ -54,11 +79,11 @@
     
     
     <entry>
-      <title>模电</title>
-      <link href="post/%E6%A8%A1%E7%94%B5/"/>
-      <url>post/%E6%A8%A1%E7%94%B5/</url>
+      <title>放大电路的频率响应</title>
+      <link href="post/%E7%BA%BF%E6%80%A7%E5%A4%B1%E7%9C%9F/"/>
+      <url>post/%E7%BA%BF%E6%80%A7%E5%A4%B1%E7%9C%9F/</url>
       
-        <content type="html"><![CDATA[<h2 id="小信号分析模型"><a href="#小信号分析模型" class="headerlink" title="小信号分析模型"></a>小信号分析模型</h2>]]></content>
+        <content type="html"><![CDATA[<div class="note info flat"><p>容抗 = 1/ωc</p></div><h2 id="高频信号"><a href="#高频信号" class="headerlink" title="高频信号"></a>高频信号</h2><p>考虑极间电容(极间电容小，当频率低时容抗更大，故不考虑。当频率高时容抗变低，不能忽略，频率越高，容抗越小，电压增益也越小)</p><h2 id="低频信号"><a href="#低频信号" class="headerlink" title="低频信号"></a>低频信号</h2><p>考虑耦合电容和旁路电容(当频率低时，原本电容高的频率变小，使得容抗也变小，不能忽略，频率越低，容抗越小，电压增益也越小)</p>]]></content>
       
       
       <categories>
