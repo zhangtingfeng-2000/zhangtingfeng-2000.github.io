@@ -4,56 +4,6 @@
   
     
     <entry>
-      <title>稳定静态工作点的放大电路</title>
-      <link href="post/%E6%A8%A1%E7%94%B5/"/>
-      <url>post/%E6%A8%A1%E7%94%B5/</url>
-      
-        <content type="html"><![CDATA[<h2 id="稳定静态工作点的放大电路"><a href="#稳定静态工作点的放大电路" class="headerlink" title="稳定静态工作点的放大电路"></a>稳定静态工作点的放大电路</h2>]]></content>
-      
-      
-      <categories>
-          
-          <category> 模电 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 学习 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>马原考试复习</title>
-      <link href="post/%E9%A9%AC%E5%8E%9F%E5%A4%8D%E4%B9%A0/"/>
-      <url>post/%E9%A9%AC%E5%8E%9F%E5%A4%8D%E4%B9%A0/</url>
-      
-        <content type="html"><![CDATA[<h1 id="马原考试复习内容"><a href="#马原考试复习内容" class="headerlink" title="马原考试复习内容"></a><strong>马原考试复习内容</strong></h1><h2 id="一、绪论"><a href="#一、绪论" class="headerlink" title="一、绪论"></a><strong>一、绪论</strong></h2><ol><li><p>什么是马克思主义</p><blockquote><ol><li>马克思主义是中国共产党制度方针政策的理论依据;</li><li>马克思主义是推动当代中国发展的精神动力;</li><li>马克思主义是引领当代中国实践的行动指南;</li><li>马克思主义是观察当代世界变化的认识工具</li></ol></blockquote></li><li><p>马克思主义理论体系</p></li><li><p>马克思主义的核心特点(实践性)</p></li><li><p>马克思主义产生的社会历史条件(阶级基础,理论来源)</p></li></ol><h2 id="二、哲学部分"><a href="#二、哲学部分" class="headerlink" title="二、哲学部分"></a><strong>二、哲学部分</strong></h2><ol><li><p>哲学是什么(哲学的基本问题)</p></li><li><p>唯物论(物质的根本特征)</p><div class="note info flat"><p>物质的存在形式 || 运动观 || 运动和静止的关系</p></div></li><li><p>意识</p><div class="note primary flat"><p>意识的本质,起源,作用</p></div></li><li><p>世界物质统一性原理</p></li></ol><h2 id="三、辩证法"><a href="#三、辩证法" class="headerlink" title="三、辩证法"></a><strong>三、辩证法</strong></h2><ol><li><p>总特征(联系的观点和发展的观点)</p></li><li><p>辩证法的基本规律(三个规律)</p><div class="note success flat"><p>重点为矛盾规律</p></div></li><li><p>辩证和否定</p></li><li><p>方法论</p></li><li><p>辩证唯物主义的认识论(马克思主义的实践理念)</p><div class="note success flat"><p>概念、特点、基本形式 容易出题!</p></div></li><li><p>认识论(先验论和反应论)</p><div class="note warning flat"><p>感性认识和理性认识<br>认识过程的两次飞跃</p></div><div class="note primary no-icon flat"><p>实践和认识的辩证关系<br>真理的概念和特点以及检验标准</p></div></li><li><p>唯物史观部分</p><div class="note warning flat"><p>必有大题<br>– 人民至上,人名群众是历史的创造者</p><ol><li>群众观点和路线</li><li>历史观的基本问题</li><li>社会关系</li><li>社会发展的两大基本规律)</li></ol><p>社会发展的动力<br>(社会基本矛盾,阶级斗争,改革科学技术,人民群众是历史的创造者)</p></div></li></ol><h2 id="四、政治经济学"><a href="#四、政治经济学" class="headerlink" title="四、政治经济学"></a><strong>四、政治经济学</strong></h2><ol><li><p>资本经济的形成,资本原始积累经济制度的本质(商品经济,劳动价值论,社会主义价值理论)</p></li><li><p>劳动价值论(商品理论(商品及其因素,劳动二重性学说,简单商品经济的基本矛盾,商品价值量的决定因素,价值规律))Δ货币的本质及其职能</p></li><li><p>资本主义的发展及其趋势</p><div class="note warning flat"><p>垄断资本主义(经济全球化及其影响)<br>可能出答题</p></div></li></ol>]]></content>
-      
-      
-      <categories>
-          
-          <category> 马原 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 学习 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>关于Butterfly主题的记录</title>
       <link href="post/butterflyNote/"/>
       <url>post/butterflyNote/</url>
@@ -73,44 +23,6 @@
             <tag> 其他 </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>放大电路的频率响应</title>
-      <link href="post/%E7%BA%BF%E6%80%A7%E5%A4%B1%E7%9C%9F/"/>
-      <url>post/%E7%BA%BF%E6%80%A7%E5%A4%B1%E7%9C%9F/</url>
-      
-        <content type="html"><![CDATA[<div class="note info flat"><p>容抗 = 1/ωc</p></div><h2 id="高频信号"><a href="#高频信号" class="headerlink" title="高频信号"></a>高频信号</h2><p>考虑极间电容(极间电容小，当频率低时容抗更大，故不考虑。当频率高时容抗变低，不能忽略，频率越高，容抗越小，电压增益也越小)</p><h2 id="低频信号"><a href="#低频信号" class="headerlink" title="低频信号"></a>低频信号</h2><p>考虑耦合电容和旁路电容(当频率低时，原本电容高的频率变小，使得容抗也变小，不能忽略，频率越低，容抗越小，电压增益也越小)</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 模电 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 学习 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="post/hello-world/"/>
-      <url>post/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
       
     </entry>
     
